@@ -1,0 +1,1 @@
+# ay-git-conventions
