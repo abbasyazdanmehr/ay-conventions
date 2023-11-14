@@ -9,8 +9,6 @@
 
 ## Commmit
 
-![Commit Message](./files/commit-message.png)
-
 Commit formats:
 
 - new feature starting
