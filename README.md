@@ -11,6 +11,34 @@
 
 ![Commit Message](./files/commit-message.png)
 
+Commit formats:
+
+- new feature starting
+```
+prototype: <feature-name>
+```
+
+- steps to feature target
+```
+develop: <feature-name> <develop-description>
+```
+
+- current codes satisfy current defined feature targets
+```
+complete: <feature-name>
+```
+
+- fixing founded bug
+```
+fix: <bug-name>
+```
+
+- fixing conventions and formats, deleting redundant codes
+```
+clean: <code-sections>
+```
+
+
 ## README
 
 `README.md` items:
