@@ -11,27 +11,27 @@
 
 Commit formats:
 
-- new feature starting
+- new feature starting:
 ```
 prototype: <feature-name>
 ```
 
-- steps to feature target
+- steps to feature target:
 ```
 develop: <feature-name> <develop-description>
 ```
 
-- current codes satisfy current defined feature targets
+- current codes satisfy current defined feature targets:
 ```
 complete: <feature-name>
 ```
 
-- fixing founded bug
+- fixing founded bug:
 ```
 fix: <bug-name>
 ```
 
-- fixing conventions and formats, deleting redundant codes
+- fixing conventions and formats, deleting redundant codes:
 ```
 clean: <code-sections>
 ```
