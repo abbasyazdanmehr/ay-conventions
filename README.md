@@ -9,7 +9,7 @@
 
 ## Commmit
 
-Commit formats:
+Commit message formats:
 
 - new feature starting:
 ```
