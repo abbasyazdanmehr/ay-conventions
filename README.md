@@ -1,7 +1,7 @@
 # My Git & Remotes Conventions
 
 - bolds means criticals
-- brackes means optionals
+- brackets means optionals
 - italic means new's
 
 
