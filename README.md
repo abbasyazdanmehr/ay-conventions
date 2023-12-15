@@ -13,22 +13,22 @@ Commit message formats:
 
 - new feature starting:
   ```
-  prototype: <feature-name>
+  proto: <feature-name> [feature-description]
   ```
 
 - steps to feature target:
   ```
-  develop: <feature-name> <develop-description>
+  dev: <feature-name> <develop-description>
   ```
 
-- current codes satisfy current defined feature targets:
+- current codes satisfy current defined feature target:
   ```
-  complete: <feature-name>
+  full: <feature-name>
   ```
 
 - fixing founded bug:
   ```
-  fix: <bug-name>
+  fix: <bug-name> [bug-description]
   ```
 
 - fixing conventions and formats, deleting redundant codes:
