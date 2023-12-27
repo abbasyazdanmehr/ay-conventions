@@ -10,8 +10,6 @@
 - `DEBUG` ... `ENDDEBUG`
 - `TEST` ... `ENDTEST`
 
-see wikipedia with this subject searching
-
 # Git
 
 ## Commmit
