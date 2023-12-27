@@ -1,9 +1,14 @@
-# My Git & Remotes Conventions
+# My Conventions
 
 - bolds means criticals
 - brackets means optionals
 - italic means new's
 
+# Coding Marks
+
+- `TODO`
+- `DEBUG` ... `ENDDEBUG`
+- `TEST` ... `ENDTEST`
 
 # Git
 
