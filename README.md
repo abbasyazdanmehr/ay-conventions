@@ -1,14 +1,12 @@
 # My Conventions
 
-- bolds means criticals
-- brackets means optionals
-- italic means new's
+This show some basic conventions as default for me.
 
 # Comment Tags
 
-- `TODO`
-- `DEBUG` ... `ENDDEBUG`
-- `TEST` ... `ENDTEST`
+- `TODO`: general notes for modifying later.
+- `DEBUG` ... `ENDDEBUG`: instructions used to debug program.
+- `TEST` ... `ENDTEST`: instructions used to test program.
 
 # Git
 
@@ -42,7 +40,7 @@ Commit message formats:
   ```
 
 
-## README
+# README
 
 `README.md` items:
 - **Name**
