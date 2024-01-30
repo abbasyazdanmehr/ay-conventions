@@ -7,6 +7,7 @@ This show some basic conventions as default for me.
 - `TODO`: general notes for modifying later.
 - `DEBUG` ... `ENDDEBUG`: instructions used to debug program.
 - `TEST` ... `ENDTEST`: instructions used to test program.
+- `BOOKMARK`: easy navigating between important lines of code.
 
 # Git
 
