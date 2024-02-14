@@ -40,6 +40,11 @@ Commit message formats:
   clean: <code-sections>
   ```
 
+- optimization refactoring:
+  ```
+  optimize: <code-section>
+  ```
+
 
 # README
 
