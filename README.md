@@ -11,44 +11,25 @@ This show some basic conventions as default for me.
 
 # Git
 
-## Commmit
+## Commmit Template
 
-Commit message formats:
+commit template: `<type>(<scope>): <description>`.
 
-- new feature starting:
-  ```
-  proto: <feature-name> [feature-description]
-  ```
+- `(project)` is the name of root scope.
 
-- steps to feature target:
-  ```
-  dev: <feature-name> <develop-description>
-  ```
-
-- current codes satisfy current defined feature target:
-  ```
-  full: <feature-name>
-  ```
-
-- fixing founded bug:
-  ```
-  fix: <bug-name> [bug-description]
-  ```
-
-- fixing conventions and formats, deleting redundant codes:
-  ```
-  clean: <code-sections>
-  ```
-
-- optimization refactoring:
-  ```
-  optimize: <code-section>
-  ```
-
+|       type        |           function             |                   example                 |
+| :---------------- | -----------------------------  | :---------------------------------------- |
+| `feat` | adding new feature. | `feat(components): add color box component.` |
+| `modifeat` | change feature for improvements, new environments and ... . | `modifeat(services): change default ip address.` |
+| `fix` | fixing bug. | `fix: prevent from multiple assignment.` |
+| `test` | adding tests for features. | `test: add node field data change test.` |
+| `docs` | modifying documents. | `docs: add git conventions document.` |
+| `clean` | refactoring, do conventions, removing redundants and ... . | `clean(project): remove old screenshots.` |
+| `chore` | miscellaneous commits. | `chore: modify .gitignore file.` |
 
 # README
 
-`README.md` items:
+root scope `README.md` items:
 - **Name**
   - **important notes and links**
     - **link to docs and references**
