@@ -5,6 +5,7 @@ This show some basic conventions as default for me.
 # Comment Tags
 
 - `TODO`: general notes for modifying later.
+- `NOTE`: something to remember later.
 - `DEBUG` ... `ENDDEBUG`: instructions used to debug program.
 - `TEST` ... `ENDTEST`: instructions used to test program. should be removed later.
 - `BOOKMARK`: easy navigating between important lines of code.
@@ -19,6 +20,7 @@ commit template: `<type>(<scope>): <description>`.
 
 |       type        |           function             |                   example                 |
 | :---------------- | -----------------------------  | :---------------------------------------- |
+| `init` | starting new thing (project, module, section, class). | `init: add basic files.` |
 | `feat` | adding new feature. | `feat(components): add color box component.` |
 | `modifeat` | change feature for improvements, new environments and ... . | `modifeat(services): change default ip address.` |
 | `fix` | fixing bug. | `fix: prevent from multiple assignment.` |
